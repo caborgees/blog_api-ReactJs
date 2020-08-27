@@ -1,0 +1,93 @@
+
+
+.Menu{
+  background: rgba(147, 198, 125, 0.13);
+  width: 359px;
+float: right;
+margin-top: 30px;
+}
+
+.Menu h4{
+  text-align: center;
+  font-weight: bold;
+font-size: 24px;
+border-bottom: 1px solid white;
+}
+
+.Postagens{
+  width: 851px;
+}
+.Sessao ul li{
+  padding: 2px;
+}
+.Sobre{ text-align: center;}
+.Categorias{
+margin: 25px}
+
+.Categorias img{
+  margin: 5px;
+}
+.Sessao{
+  padding: 10px;
+
+}
+.Populares{
+  padding: 10px;
+
+}
+.Populares ul li {
+list-style: none;
+float: right;
+font-size: 14px;
+margin: 2px;
+
+
+}
+
+.Populares img {
+  list-style: none;
+  margin: 9px;
+  float: left;
+  }
+
+  /* Postagens*/
+  .PostagensBlog{
+    width: 794px;
+    margin: 25px;
+    background: rgba(147, 198, 125, 0.13);
+
+  }
+
+  .Post{ margin: 10px;}
+
+  .Capa{
+    width: 744px;
+height: 300px;
+opacity: 0.8;
+border: solid 1px white;
+  }
+
+  .Titulo{ text-align: center;
+  padding: 3px;
+  font-size: 25px;
+}
+.Subtitulo{
+  font-size: 16px;
+  width: 744px;
+
+}
+.Botao{
+  width: 164px;
+height: 44px;
+background: #658C53;
+color: white;
+font-weight: bold;
+border: none;
+margin-bottom: 10px;
+font-size: 18px;
+position: relative;
+left: 550px;}
+
+.Botao:hover{
+  background:#93C67D;
+}
