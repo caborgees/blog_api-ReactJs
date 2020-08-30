@@ -9,7 +9,6 @@ margin-top: 30px;
 
 .Menu h4{
   text-align: center;
-  font-weight: bold;
 font-size: 24px;
 border-bottom: 1px solid white;
 }
@@ -90,4 +89,54 @@ left: 550px;}
 
 .Botao:hover{
   background:#93C67D;
+}
+
+
+
+/**
+* add classes
+*
+*/
+
+.flex {
+  display: flex;
+  
+}
+
+.align-center {
+  align-items: center;
+}
+
+.light-font {
+  font-weight: 300;
+}
+
+.muted-text {
+  color: #5c5a5a;
+}
+
+.rounded-circle {
+  border-radius: 50%;
+}
+
+.nav-menu {
+  margin: 0 !important;
+  padding: 0;
+}
+
+.nav-menu-item {
+  display: flex;
+}
+
+.title {
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+.text-green {
+  color: #180;
+}
+
+.italic {
+  font-style: italic;
 }
