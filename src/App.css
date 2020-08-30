@@ -120,6 +120,7 @@ left: 550px;}
 }
 
 .nav-menu {
+  position: relative;
   margin: 0 !important;
   padding: 0;
 }
@@ -139,4 +140,8 @@ left: 550px;}
 
 .italic {
   font-style: italic;
+}
+
+.block {
+  position: relative;
 }
